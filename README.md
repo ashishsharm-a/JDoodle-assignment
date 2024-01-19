@@ -58,7 +58,6 @@ The custom metrics used for scaling are load averages, and they are pushed to Cl
 - CloudWatch Alarms
 - CloudWatch Metric Filters
 - SNS Topic for Email Alerts
-- SNS Subscription for Email Notifications
 
 ## Notifications
 
